@@ -114,8 +114,8 @@ Page
 ## ❤️ Support Me
 
 <p align="center">
-  <a href="https://queuefreehealth.com/doctor-survey.html">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+  <a href="https://queuefreehealth.com/contact.html">
+    <img src="https://github.com/Nifail10/image/blob/main/Take%20survey.png" width="200"/>
   </a>
 </p>
 
