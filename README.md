@@ -1,11 +1,5 @@
 
-README.md
 
-Page
-1
-/
-1
-100%
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
 <h1 align="left">
@@ -111,12 +105,11 @@ Page
 
 ---
 
-## ❤️ Support Me
+## ❤️ Connect with us
 
 <p align="center">
   <a href="https://queuefreehealth.com/contact.html">
-    <img src="https://github.com/Nifail10/image/blob/main/Take%20survey.png" width="200"/>
+    <img src="https://github.com/Nifail10/image/blob/main/Take%20surveye.png" width="350"/>
   </a>
 </p>
 
-Displaying README.md.
