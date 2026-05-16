@@ -10,8 +10,9 @@
 <h3>Founder @ QueueFree | Building Real-Time Healthcare Systems</h3>
 
 <div align="left">
+<a href="https://personal-chatbot-vert-ten.vercel.app/" target="_blank" title="Try my AI chatbot">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-
+</a>
   <p>
     I'm building QueueFree a real-time hospital queue intelligence platform focused on improving outpatient workflow and reducing patient waiting uncertainty.
     I work across product, frontend, and systems to turn real-world problems into practical, usable solutions.
